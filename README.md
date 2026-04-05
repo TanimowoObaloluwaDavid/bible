@@ -1,4 +1,10 @@
 ![04_screens](https://github.com/user-attachments/assets/6e4806a1-33a0-486c-8b01-f125e5c202f9)
+![03_tech_stack](https://github.com/user-attachments/assets/d98e5f53-1352-409b-bb98-5022f96d560b)
+![02_features](https://github.com/user-attachments/assets/d6f46439-2c3f-4f66-abe1-6906594d521a)
+![01_hero_banner](https://github.com/user-attachments/assets/36e21be4-27b7-4f98-9f10-743245481bf5)
+
+
+
 
 
 # Scripture Daily — Flutter Bible App
