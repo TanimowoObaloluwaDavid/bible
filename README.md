@@ -1,3 +1,5 @@
+https://drive.google.com/file/d/1DELtdsg2C6bag8sTqveMZ0wcXEqF_SET/view?usp=sharing, https://drive.google.com/file/d/1DHe8WP7v_gaFhWKVXven8CUBo8K7nAHf/view?usp=sharing, https://drive.google.com/file/d/1O_xdtApxSSt3O9E1spwQY3145ODASBaa/view?usp=sharing, https://drive.google.com/file/d/1d12vsdXzajTQq4aXSTU2k3axGmNJboI3/view?usp=sharing
+
 # Scripture Daily — Flutter Bible App
 
 A production-quality Bible app built with Flutter. Features splash screen, full auth flow (Google, Apple, Email), Bible reader with 7+ versions and 4 languages, daily prayer journal, bookmarks, and more.
