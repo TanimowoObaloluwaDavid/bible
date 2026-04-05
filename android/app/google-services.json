@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "125793245556",
+    "project_id": "obaloluwa-4721f",
+    "storage_bucket": "obaloluwa-4721f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125793245556:android:57cf1404bfde0283323421",
+        "android_client_info": {
+          "package_name": "com.example.bible"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125793245556-nrkri1ma5a1md9nhnel24fjuk5f6lur0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0f3GUM8m4pc4j3pQGwbuf6F-eZ6cf69g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125793245556-nrkri1ma5a1md9nhnel24fjuk5f6lur0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "125793245556-oo8gv1nmqo2jheoaq5pa9qc989qb6dse.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bible"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
