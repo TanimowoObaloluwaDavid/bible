@@ -1,4 +1,5 @@
-https://drive.google.com/file/d/1DELtdsg2C6bag8sTqveMZ0wcXEqF_SET/view?usp=sharing
+![04_screens](https://github.com/user-attachments/assets/6e4806a1-33a0-486c-8b01-f125e5c202f9)
+
 
 # Scripture Daily — Flutter Bible App
 
